@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <!-- Get rid of Lineage repos -->
-    <remove-project name="LineageOS/android_device_oppo_common" />
+    <!-- Custom Repository -->
     <project path="device/oppo/common" name="bibahR/android_device_oppo_common" />
 </manifest>
