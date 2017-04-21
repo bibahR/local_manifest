@@ -7,7 +7,7 @@
     <project path="frameworks/native" name="bibahR/android_frameworks_native" />
     <remove-project name="LineageOS/android_packages_apps_Contacts" />
     <project path="packages/apps/Contacts" name="bibahR/android_packages_apps_Contacts" />
-    <remove-project name="LineageOS/android_packages_apps_ContactsCommon" />
+    <remove-project name="LineageOS/android_packag_apps_ContactsCommon" />
     <project path="packages/apps/ContactsCommon" name="bibahR/android_packages_apps_ContactsCommon" />
     <remove-project name="LineageOS/android_packages_apps_Dialer" />
     <project path="packages/apps/Dialer" name="bibahR/android_packages_apps_Dialer" />
@@ -25,6 +25,7 @@
     <project path="system/sepolicy" name="bibahR/android_system_sepolicy" />
     <remove-project name="LineageOS/android_vendor_cm" />
     <project path="vendor/cm" name="bibahR/android_vendor_cm" />
-    <remove-project name="LineageOS/android" />
-    <project path="android" name="bibahR/android" />
+    
+    <!-- Track ThemeInterfacer -->
+    <project path="packages/apps/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
 </manifest>
