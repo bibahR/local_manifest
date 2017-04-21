@@ -7,7 +7,7 @@
     <project path="frameworks/native" name="bibahR/android_frameworks_native" />
     <remove-project name="LineageOS/android_packages_apps_Contacts" />
     <project path="packages/apps/Contacts" name="bibahR/android_packages_apps_Contacts" />
-    <remove-project name="LineageOS/android_packag_apps_ContactsCommon" />
+    <remove-project name="LineageOS/android_packages_apps_ContactsCommon" />
     <project path="packages/apps/ContactsCommon" name="bibahR/android_packages_apps_ContactsCommon" />
     <remove-project name="LineageOS/android_packages_apps_Dialer" />
     <project path="packages/apps/Dialer" name="bibahR/android_packages_apps_Dialer" />
