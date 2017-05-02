@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-    <!-- Custom Repository -->
-    <removeproject name="CypherOS/packages_apps_Gallery2" />
-</manifest>
