@@ -9,6 +9,6 @@
   <project path="vendor/nxp-nfc/opensource/libnfc-nci" name="android_vendor_nxp-nfc_opensource_libnfc-nci" remote ="lineage" />
   <project path="vendor/nxp-nfc/opensource/Nfc" name="android_vendor_nxp-nfc_opensource_Nfc" remote ="lineage" />
   <project path="device/qcom/common" name="android_device_qcom_common" remote ="lineage" />
-  <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote ="lineage" />
+  <!--project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote ="lineage" /-->
   
  </manifest>  
