@@ -4,6 +4,10 @@
           fetch="https://github.com/LineageOS/"
           revision="refs/heads/cm-14.1" />
   
+  <remote name="github"
+          fetch="https://github.com/"
+          revision="refs/heads/cm-14.1" />
+  
   <!--Oneplus 3 manifests-->
   
   <remove-project name="platform/hardware/qcom/audio" />
