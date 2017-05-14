@@ -12,6 +12,7 @@
   <project path="vendor/nxp-nfc/opensource/libnfc-nci" name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" remote="github" />
   <project path="vendor/nxp-nfc/opensource/Nfc" name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" remote="github" />
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" />
+  <project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" remote="github" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
   <project path="vendor/jos" name="jancokOS/android_vendor_jos" remote="github" revision="jos-7" />
   <project path="vendor/oneplus" name="TheMuppets/proprietary_vendor_oneplus" remote="github" />
