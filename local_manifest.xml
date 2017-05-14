@@ -14,8 +14,8 @@
   <project path="hardware/ril" name="LineageOS/android_hardware_ril" groups="pdk" remote="github" revision="cm-14.1-caf" />
   <remove-project name="platform/hardware/qcom/bt" />
   <project path="hardware/qcom/bt" name="LineageOS/android_hardware_qcom_bt" groups="qcom,pdk" remote="github" revision="cm-14.1-caf" />
-  <remove-project name="platform/hardware/qcom/wlan" />
-  <project path="hardware/qcom/wlan" name="LineageOS/android_hardware_qcom_wlan" groups="qcom_wlan" remote="github" revision="cm-14.1-caf" />
+  <!--remove-project name="platform/hardware/qcom/wlan" />
+  <project path="hardware/qcom/wlan" name="LineageOS/android_hardware_qcom_wlan" groups="qcom_wlan" remote="github" revision="cm-14.1-caf" /-->
   <remove-project name="platform/libcore" />
   <project path="libcore" name="LineageOS/android_libcore" groups="pdk" remote="github" />
   <project path="kernel/oneplus/msm8996" name="LineageOS/android_kernel_oneplus_msm8996" remote="github" />
