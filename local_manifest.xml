@@ -10,8 +10,8 @@
   <project path="external/libncurses" name="LineageOS/android_external_libncurses" remote="github" />
   <remove-project name="platform/hardware/ril" />
   <project path="hardware/ril" name="LineageOS/android_hardware_ril" groups="pdk" remote="github" revision="cm-14.1-caf" />
-  <!--remove-project name="platform/hardware/qcom/bt" />
-  <project path="hardware/qcom/bt" name="LineageOS/android_hardware_qcom_bt" groups="qcom,pdk" remote="github" revision="cm-14.1-caf" /-->
+  <remove-project name="platform/hardware/qcom/bt" />
+  <project path="hardware/qcom/bt" name="LineageOS/android_hardware_qcom_bt" groups="qcom,pdk" remote="github" revision="cm-14.1-caf" />
   <project path="kernel/oneplus/msm8996" name="LineageOS/android_kernel_oneplus_msm8996" remote="github" />
   <project path="vendor/nxp-nfc/opensource/frameworks" name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" remote="github" />
   <project path="vendor/nxp-nfc/opensource/libnfc-nci" name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" remote="github" />
